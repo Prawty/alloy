@@ -1,4 +1,4 @@
-[alloy](https://prawty.github.io/alloy/public#index.html)
+[alloy](https://prawty.github.io/alloy/public/index.html)
 
 # Alloy Proxy
 A web proxy for use in combating web filters.
