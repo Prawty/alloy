@@ -1,4 +1,4 @@
-discord: (https://prawty.github.io/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/app)
+discord: (https://prawty.github.io/alloy/web/_aHR0cHM6Ly9kaXNjb3JkLmNvbQ==_/app)
 
 # Alloy Proxy
 A web proxy for use in combating web filters.
